@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+@import "~bootstrap/dist/css/bootstrap";
+
+.table th {
+    color: red !important;
+}
+.card-title {
+    font-weight: bold !important;
+}
